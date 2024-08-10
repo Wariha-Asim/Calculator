@@ -2,7 +2,7 @@
 A simple, user-friendly calculator built with HTML, CSS, and JavaScript. This calculator performs basic arithmetic operations and supports keyboard and button inputs.
 
 # Features
-Basic Operations: Addition, subtraction, multiplication, and division.
+Basic Operations: Addition, subtraction, multiplication, and division
 Clear and Delete: Reset the calculator or delete the last entry.
 Decimal Support: Allows the use of decimal points in calculations.
 Responsive Design: Works well on various screen sizes.
